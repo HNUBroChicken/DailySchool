@@ -27,6 +27,6 @@ def slide(x1, y1, x2, y2, slide_time=0):
     delay(0.8)
 
 
-# 输入文字
+# 输入文本
 def text_input(text):
-    os.system("adb shell input text" + " " + str(text))
+    os.system("adb shell input text" + " " + text)

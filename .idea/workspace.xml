@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="440b4a63-da4a-4cc6-864d-c1d3b65e342b" name="Default Changelist" comment="" />
+    <list default="true" id="440b4a63-da4a-4cc6-864d-c1d3b65e342b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/function.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +18,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YNpe2lVBCVqcCQrxQGbGJBxbPx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -154,7 +162,6 @@
       <list>
         <item itemvalue="Python.today_school" />
         <item itemvalue="Python.function (1)" />
-        <item itemvalue="Python.phone_function" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.test" />
       </list>
@@ -172,6 +179,7 @@
       <updated>1582792997945</updated>
       <workItem from="1582792999409" duration="13491000" />
       <workItem from="1582867170123" duration="32469000" />
+      <workItem from="1582962440841" duration="3451000" />
     </task>
     <servers />
   </component>
@@ -187,25 +195,25 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="690" y="274" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582883548112" />
-    <state width="1877" height="199" key="GridCell.Tab.0.bottom" timestamp="1582921924389">
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom" timestamp="1582965901731">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582913177155" />
+    <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582965901731" />
     <state width="1877" height="199" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1582921924389" />
-    <state width="1877" height="199" key="GridCell.Tab.0.center" timestamp="1582921924389">
+    <state width="1877" height="199" key="GridCell.Tab.0.center" timestamp="1582965901731">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582913177154" />
+    <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582965901731" />
     <state width="1877" height="199" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1582921924389" />
-    <state width="1877" height="199" key="GridCell.Tab.0.left" timestamp="1582921924389">
+    <state width="1877" height="199" key="GridCell.Tab.0.left" timestamp="1582965901731">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582913177154" />
+    <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582965901731" />
     <state width="1877" height="199" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1582921924389" />
-    <state width="1877" height="199" key="GridCell.Tab.0.right" timestamp="1582921924389">
+    <state width="1877" height="199" key="GridCell.Tab.0.right" timestamp="1582965901731">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582913177154" />
+    <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1920.1050/1920.115.1600.870@0.0.1920.1050" timestamp="1582965901731" />
     <state width="1877" height="199" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582921924389" />
     <state width="1877" height="342" key="GridCell.Tab.1.bottom" timestamp="1582817627708">
       <screen x="0" y="0" width="1920" height="1050" />
@@ -226,7 +234,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/todaySchool$start.coverage" NAME="test Coverage Results" MODIFIED="1582916376757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/todaySchool$today_school.coverage" NAME="today_school Coverage Results" MODIFIED="1582920786203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/todaySchool$today_school.coverage" NAME="today_school Coverage Results" MODIFIED="1582965901623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/todaySchool$test.coverage" NAME="test Coverage Results" MODIFIED="1582882716953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/todaySchool$function__1_.coverage" NAME="function (1) Coverage Results" MODIFIED="1582918851424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/todaySchool$phone_function.coverage" NAME="function Coverage Results" MODIFIED="1582916537149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
